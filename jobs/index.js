@@ -82,7 +82,8 @@ function getItem(bucketName, itemName) {
             'categories': {
             'limit': 5,
             }
-          }
+          },
+          'language':'en'
         };
 
         naturalLanguageUnderstanding
